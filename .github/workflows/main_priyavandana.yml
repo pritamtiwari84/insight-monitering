@@ -54,4 +54,4 @@ jobs:
           app-name: 'priyavandana'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7EC37EB2666F40C2A5F6A37DE2FEDC2C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98CECEB1F3AB4804AB073F7271823F1F }}
